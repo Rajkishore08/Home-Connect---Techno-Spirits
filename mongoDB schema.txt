@@ -1,0 +1,84 @@
+// User Collection
+{
+  "name": "string",
+  "email": "string",
+  "phone": "string",
+  "password": "string",
+  "location": "string", // User's current location or preferred area
+  "food_preference": "string",
+  "created_at": "Date",
+  "updated_at": "Date"
+}
+
+// Accommodation Collection
+{
+  "name": "string",
+  "type": "string", // e.g., PG, Apartment, Room
+  "address": "string",
+  "location": { "type": "Point", "coordinates": [longitude, latitude] }, // For geospatial queries
+  "amenities": ["string"],
+  "price": "number",
+  "images": ["string"], // Array of image URLs
+  "contact_person": "string",
+  "contact_number": "string",
+  "food_availability": "string", // Veg/Non-Veg/Both/None
+  "created_at": "Date",
+  "updated_at": "Date",
+  "user_id": "ObjectId" // Reference to the user who listed it
+}
+
+// Service Collection (Generic - can be refined with subtypes)
+{
+  "name": "string",
+  "category": "string", // e.g., Restaurant, Laundry, Grocery, Medical, Gym, Water, Mechanic, Plumber, Electrician, Cleaning, Cylinder
+  "address": "string",
+  "location": { "type": "Point", "coordinates": [longitude, latitude] },
+  "opening_hours": { "monday": "string", "tuesday": "string", ... },
+  "contact_number": "string",
+  "rating": "number",
+  "reviews": [{ "user_id": "ObjectId", "comment": "string", "rating": "number", "date": "Date" }],
+  "images": ["string"],
+  "details": "string", // More specific details like cuisine for restaurants, services for laundry, etc.
+  "created_at": "Date",
+  "updated_at": "Date",
+  "stock_availability": { /* For Grocery/Medical */ },
+  "menu": [{ /* For Restaurants */ }],
+  "pricing": { /* For Laundry/Gym */ }
+}
+
+// Item Listing Collection (For Item Search Engine)
+{
+  "name": "string", // e.g., Milk, Bread, Gas Cylinder
+  "category": "string", // e.g., Daily Needs, Groceries
+  "description": "string",
+  "stores": [{
+    "service_id": "ObjectId", // Reference to the service (e.g., grocery store)
+    "price": "number",
+    "availability": "boolean"
+  }],
+  "created_at": "Date",
+  "updated_at": "Date"
+}
+
+// Community Post Collection
+{
+  "user_id": "ObjectId",
+  "type": "string", // Alert or Question
+  "title": "string",
+  "description": "string",
+  "location": { "type": "Point", "coordinates": [longitude, latitude] }, // Optional - for location-specific posts
+  "created_at": "Date",
+  "updated_at": "Date",
+  "replies": [{
+    "user_id": "ObjectId",
+    "text": "string",
+    "created_at": "Date"
+  }]
+}
+
+// Broadcast Notification Collection
+{
+  "title": "string",
+  "description": "string",
+  "created_at": "Date"
+}

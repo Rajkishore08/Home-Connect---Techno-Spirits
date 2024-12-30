@@ -69,6 +69,57 @@ Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-Tech
 
 ### Setup Instructions  
 1. Clone the repository:  
-   ```bash  
+
    git clone https://github.com/TechnoSpirits/HomeConnect.git  
-```
+
+Navigate to the project directory:
+
+bash
+Copy code
+cd HomeConnect  
+Install dependencies:
+
+bash
+Copy code
+npm install  
+Configure environment variables:
+
+Create a .env file.
+Add required keys (MongoDB URI, API keys).
+Start the development server:
+
+bash
+Copy code
+npm start  
+Access the application at:
+http://localhost:3000
+
+🛡 Security & Privacy
+User data is securely stored using industry-standard practices.
+All communication is encrypted to protect privacy.
+🤝 Contributing
+We welcome contributions from the community!
+
+Fork the repository.
+Create a new branch:
+bash
+Copy code
+git checkout -b feature/your-feature-name  
+Commit your changes:
+bash
+Copy code
+git commit -m "Added a new feature"  
+Push to the branch:
+bash
+Copy code
+git push origin feature/your-feature-name  
+Submit a pull request.
+📧 Contact
+For inquiries or support, contact us at:
+
+Email: technospirits@homeconnect.com
+Hackathon Page: Hack$Day Pondy - First Edition
+🎉 Acknowledgments
+Special thanks to the organizers of Hack$Day Pondy - First Edition for providing us with an excellent platform to innovate and build.
+
+

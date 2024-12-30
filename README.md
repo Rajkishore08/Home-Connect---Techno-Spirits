@@ -45,16 +45,16 @@ Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-Tech
 ## 📸 Screenshots  
 
 ### Accommodation Finder  
-![image](https://github.com/user-attachments/assets/9cb73f00-b837-4e3a-aecf-95076551787e)  
+![image](https://github.com/user-attachments/assets/68639bbf-9d67-4549-8df4-74fdc0dbc369)  # Acc
 
 ### Local Services Insights  
-![image](https://github.com/user-attachments/assets/586cb917-8a54-4338-8181-9ab72ca6198c)  
-
-### Daily Necessities Search  
 ![image](https://github.com/user-attachments/assets/8ffc9a43-06e0-4923-b0ed-9672d0a07a11)  
 
+### Daily Necessities Search  
+![image](https://github.com/user-attachments/assets/586cb917-8a54-4338-8181-9ab72ca6198c)  #ISE
+
 ### Community Chat Forum  
-![image](https://github.com/user-attachments/assets/68639bbf-9d67-4549-8df4-74fdc0dbc369)  
+![image](https://github.com/user-attachments/assets/9cb73f00-b837-4e3a-aecf-95076551787e)  # community
 
 ### Broadcast Section  
 ![image](https://github.com/user-attachments/assets/acc180cd-b3a3-44c3-92b0-fd1c8896820b)  
@@ -117,7 +117,7 @@ Submit a pull request.
 📧 Contact
 For inquiries or support, contact us at:
 
-Email: technospirits@homeconnect.com
+Email: rajkishorerk082004@gmail.com
 Hackathon Page: Hack$Day Pondy - First Edition
 🎉 Acknowledgments
 Special thanks to the organizers of Hack$Day Pondy - First Edition for providing us with an excellent platform to innovate and build.

@@ -8,6 +8,14 @@ Built by **Team Techno Spirits** during the **Hack$Day Pondy - First Edition (48
 Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-TechnoSpirits](https://tinyurl.com/HomeConnect-TechnoSpirits)  
 
 ---
+## 🎥 Demo Video  
+Watch the demo of HomeConnect on YouTube: [https://youtu.be/uVOPEHqn-MQ](https://youtu.be/uVOPEHqn-MQ)  
+
+---
+
+## 📑 Presentation  
+Access the presentation for HomeConnect: [https://drive.google.com/file/d/1pWy2Av4W0slLt8CxUdjxzW4lyY2mfelR/view?usp=sharing](https://drive.google.com/file/d/1pWy2Av4W0slLt8CxUdjxzW4lyY2mfelR/view?usp=sharing)  
+---
 
 ## 🛠 Features  
 

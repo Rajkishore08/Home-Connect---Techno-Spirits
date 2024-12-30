@@ -13,8 +13,8 @@ Watch the demo of HomeConnect on YouTube: [https://youtu.be/uVOPEHqn-MQ](https:/
 
 ---
 
-## 📑 Presentation  
-Access the presentation for HomeConnect: [https://drive.google.com/file/d/1pWy2Av4W0slLt8CxUdjxzW4lyY2mfelR/view?usp=sharing](https://drive.google.com/file/d/1pWy2Av4W0slLt8CxUdjxzW4lyY2mfelR/view?usp=sharing)  
+## 📑 Presentation 
+Access the presentation for HomeConnect: [https://tinyurl.com/HomeConnect-PPT](https://tinyurl.com/HomeConnect-PPT)
 ---
 
 ## 🛠 Features  

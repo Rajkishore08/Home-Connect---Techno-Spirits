@@ -42,6 +42,9 @@ Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-Tech
 
 ---
 
+## YouTube : Complete demo video with explanation 
+[YouTube Tutorial](https://youtu.be/uVOPEHqn-MQ)
+
 ## 📸 Screenshots  
 
 ### Accommodation Finder  
@@ -96,10 +99,14 @@ npm start
 ```
 Access the application at:
 http://localhost:3000
+
 🛡 Security & Privacy
 User data is securely stored using industry-standard practices.
+
 All communication is encrypted to protect privacy.
+
 🤝 Contributing
+
 We welcome contributions from the community!
 
 Fork the repository.

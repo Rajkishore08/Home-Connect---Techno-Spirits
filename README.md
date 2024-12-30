@@ -45,19 +45,19 @@ Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-Tech
 ## 📸 Screenshots  
 
 ### Accommodation Finder  
-![image](https://github.com/user-attachments/assets/68639bbf-9d67-4549-8df4-74fdc0dbc369)  # Acc
+![Accommodation Finder](https://github.com/user-attachments/assets/44af353d-e19c-4328-9241-72f5f3ea669f)
 
 ### Local Services Insights  
-![image](https://github.com/user-attachments/assets/8ffc9a43-06e0-4923-b0ed-9672d0a07a11)  
+![Local Service Insight - 1](https://github.com/user-attachments/assets/31dc606d-a5f2-4b42-b835-fc3edb9cd325)
 
-### Daily Necessities Search  
-![image](https://github.com/user-attachments/assets/586cb917-8a54-4338-8181-9ab72ca6198c)  #ISE
+### Item search engine search option 
+![Item search engine search option](https://github.com/user-attachments/assets/8c74f842-9f7b-46e0-b3ba-4bb4597f6755)
 
 ### Community Chat Forum  
-![image](https://github.com/user-attachments/assets/9cb73f00-b837-4e3a-aecf-95076551787e)  # community
+![Community chat forum](https://github.com/user-attachments/assets/ee4b7d4f-a97f-4678-9ece-0a42bede05b3)
 
-### Broadcast Section  
-![image](https://github.com/user-attachments/assets/acc180cd-b3a3-44c3-92b0-fd1c8896820b)  
+### Broadcast And Location  
+![Broacast and location](https://github.com/user-attachments/assets/0edde4da-e59f-4998-bba0-a7c3b9ca4275)
 
 ---
 
@@ -70,30 +70,32 @@ Explore the live prototype of HomeConnect: [https://tinyurl.com/HomeConnect-Tech
 ### Setup Instructions  
 1. Clone the repository:  
 
-   git clone https://github.com/TechnoSpirits/HomeConnect.git  
+   ```bash
+   git clone https://github.com/TechnoSpirits/HomeConnect.git
+   ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Copy code
-cd HomeConnect  
-Install dependencies:
+```bash
+cd HomeConnect
+```
+  
+3. Install dependencies:
 
-bash
-Copy code
+```bash
 npm install  
-Configure environment variables:
+```
+4. Configure environment variables:
 
-Create a .env file.
-Add required keys (MongoDB URI, API keys).
-Start the development server:
+- Create a .env file.
+- Add required keys (MongoDB URI, API keys).
+- Start the development server:
 
-bash
-Copy code
+```bash
 npm start  
+```
 Access the application at:
 http://localhost:3000
-
 🛡 Security & Privacy
 User data is securely stored using industry-standard practices.
 All communication is encrypted to protect privacy.
@@ -102,17 +104,20 @@ We welcome contributions from the community!
 
 Fork the repository.
 Create a new branch:
-bash
-Copy code
+```bash
 git checkout -b feature/your-feature-name  
+```
+
 Commit your changes:
-bash
-Copy code
+```bash
 git commit -m "Added a new feature"  
+```
+
 Push to the branch:
-bash
-Copy code
+```bash
 git push origin feature/your-feature-name  
+```
+
 Submit a pull request.
 📧 Contact
 For inquiries or support, contact us at:
